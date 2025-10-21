@@ -206,7 +206,6 @@ Each folder contains:
 - **README.md** - Step-by-step tutorial
 - **starter/** - Starting code template  
 - **solution/** - Complete working solution
-- **challenges/** - Extra practice problems
 
 ### Beginner Challenges:
 1. Change app colors and fonts
