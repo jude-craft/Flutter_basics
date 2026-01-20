@@ -49,7 +49,7 @@ brew install --cask flutter
 **Linux (Ubuntu/Fedora):**
 ```bash
 # Download Flutter
-wget https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.24.3-stable.tar.xz
+wget https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.38.7-stable.tar.xz
 tar xf flutter_linux_3.24.3-stable.tar.xz
 
 # Add to PATH
