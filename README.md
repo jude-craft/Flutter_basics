@@ -279,7 +279,6 @@ Found a bug or have a question?
    - Clear description
    - Steps to reproduce
    - Expected vs actual behavior
-   - Screenshots (if applicable)
 
 
 
