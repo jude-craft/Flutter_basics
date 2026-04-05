@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// 🎯 MAIN NAVIGATION PAGE - With Bottom Navigation Bar
+// MAIN NAVIGATION PAGE - With Bottom Navigation Bar
 class MainNavigationPage extends StatefulWidget {
   const MainNavigationPage({super.key});
 
@@ -77,7 +77,7 @@ class _MainNavigationPageState extends State<MainNavigationPage> {
   }
 }
 
-// 🏠 HOME PAGE - Our starting point
+// HOME PAGE - Our starting point
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
@@ -210,7 +210,7 @@ class HomePage extends StatelessWidget {
   }
 }
 
-// 🔍 EXPLORE TAB - Bottom Navigation Example
+//EXPLORE TAB - Bottom Navigation Example
 class ExploreTab extends StatelessWidget {
   const ExploreTab({super.key});
 
@@ -336,7 +336,7 @@ class ExploreTab extends StatelessWidget {
   }
 }
 
-// 📄 DETAIL PAGE - For Explore items
+// DETAIL PAGE - For Explore items
 class DetailPage extends StatelessWidget {
   final String emoji;
   final String title;
@@ -392,7 +392,7 @@ class DetailPage extends StatelessWidget {
   }
 }
 
-// ❤️ FAVORITES TAB - Bottom Navigation Example
+// FAVORITES TAB - Bottom Navigation Example
 class FavoritesTab extends StatefulWidget {
   const FavoritesTab({super.key});
 
@@ -455,7 +455,7 @@ class _FavoritesTabState extends State<FavoritesTab> {
   }
 }
 
-// 👤 PROFILE TAB - Bottom Navigation Example
+// PROFILE TAB - Bottom Navigation Example
 class ProfileTab extends StatelessWidget {
   const ProfileTab({super.key});
 
@@ -519,7 +519,7 @@ class ProfileTab extends StatelessWidget {
   }
 }
 
-// 🚀 SPACE PAGE - Simple navigation example
+// SPACE PAGE - Simple navigation example
 class SpacePage extends StatelessWidget {
   const SpacePage({super.key});
 
@@ -576,7 +576,7 @@ class SpacePage extends StatelessWidget {
   }
 }
 
-// 🎁 GIFT PAGE - Receiving data example
+// GIFT PAGE - Receiving data example
 class GiftPage extends StatelessWidget {
   final String senderName;
   final String giftType;
@@ -638,7 +638,7 @@ class GiftPage extends StatelessWidget {
   }
 }
 
-// ⭐ RATING PAGE - Returning data example
+// RATING PAGE - Returning data example
 class RatingPage extends StatefulWidget {
   const RatingPage({super.key});
 
@@ -710,7 +710,7 @@ class _RatingPageState extends State<RatingPage> {
   }
 }
 
-// 🗺️ QUEST PAGE - Multiple screen navigation
+// QUEST PAGE - Multiple screen navigation
 class QuestPage extends StatelessWidget {
   final int level;
 
