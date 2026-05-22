@@ -1,4 +1,4 @@
-# Flutter Basics 🚀
+# Flutter Basics
 
 Welcome to **Flutter Basics** - your complete guide to learning Flutter development from scratch! This repository contains beginner-friendly projects, step-by-step tutorials, and hands-on examples to get you started with Flutter.
 
