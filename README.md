@@ -74,7 +74,7 @@ git clone https://github.com/DevJude254/Flutter_basics.git
 cd flutter-basics
 ```
 
-## 📚 Repository Structure
+## Repository Structure
 
 ```
 flutter-basics/
@@ -93,7 +93,7 @@ flutter-basics/
 └── README.md                    # This file
 ```
 
-## 🎓 Learning Path
+##  Learning Path
 
 ### Week 1: Flutter Fundamentals
 - **Day 1-2:** [Hello World App](./01-hello-world/) - Your first Flutter app
@@ -151,7 +151,7 @@ MaterialApp
             └── Button
 ```
 
-## 💡 Learning Tips
+##  Learning Tips
 
 ### For Beginners:
 1. **Start Small:** Don't try to build complex apps immediately
@@ -172,7 +172,7 @@ debugPrint('Value of counter: $counter');
 assert(counter >= 0, 'Counter should not be negative');
 ```
 
-## 🛠️ Common Commands
+##  Common Commands
 
 ```bash
 # Create new Flutter project
@@ -200,7 +200,7 @@ flutter pub get
 flutter upgrade
 ```
 
-## 🎯 Practice Exercises
+##  Practice Exercises
 
 Each folder contains:
 - **README.md** - Step-by-step tutorial
@@ -219,7 +219,7 @@ Each folder contains:
 3. Image gallery
 4. Shopping list with local storage
 
-## 🌟 Project Showcase
+##  Project Showcase
 
 If you complete the course you will build:
 
@@ -238,7 +238,7 @@ If you complete the course you will build:
 - ✅ Navigation drawer
 - ✅ Dark/light mode toggle
 
-## 📖 Additional Resources
+##  Additional Resources
 
 ### Official Documentation:
 - [Flutter.dev](https://flutter.dev/) - Official website
@@ -271,7 +271,7 @@ We welcome contributions! Here's how you can help:
 - Test all code before submitting
 - Follow Flutter/Dart style guidelines
 
-## 🐛 Issues & Support
+## Issues & Support
 
 Found a bug or have a question?
 1. Check existing [Issues](https://github.com/DevJude254/Flutter-basics/issues)
@@ -282,7 +282,7 @@ Found a bug or have a question?
 
 
 
-## 🎊 Getting Started Now!
+## Getting Started Now!
 
 Ready to dive in? Start with:
 1. [Hello World App](./01-hello-world/) - Get your development environment working
@@ -293,8 +293,8 @@ Ready to dive in? Start with:
 
 ---
 
-⭐ **Star this repository** if you find it helpful!
-🍴 **Fork it** to customize for your learning journey!
-📢 **Share it** with friends who want to learn Flutter!
+ **Star this repository** if you find it helpful!
+ **Fork it** to customize for your learning journey!
+ **Share it** with friends who want to learn Flutter!
 
 *Made with ❤️ by Jude for the Flutter community*
