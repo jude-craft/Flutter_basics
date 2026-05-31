@@ -12,7 +12,7 @@ Welcome to **Flutter Basics** - your complete guide to learning Flutter developm
 - Working with APIs and data
 - Best practices for Flutter development
 
-## 🎯 Target Audience
+## Target Audience
 
 This repository is designed for:
 - Complete beginners to Flutter
